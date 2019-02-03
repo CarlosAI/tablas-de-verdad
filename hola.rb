@@ -1,8 +1,7 @@
 
 nombre = gets.chomp
-puts "Tu nombre es:" + nombre
 #puts "El tamaño es:" 
-a = nombre.size
+a = nombre.sizeses
 
 vector = Array.new
 for i in(0..a-1)
@@ -11,3 +10,6 @@ end
 
 puts vector
 puts "Hola"
+puts "equis"
+puts "no va
+iuwfwu"
