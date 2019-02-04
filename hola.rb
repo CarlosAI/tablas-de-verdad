@@ -11,4 +11,9 @@ end
 puts vector
 puts "Hola"
 puts "equis"
-puts peifjw
+puts peifjwww
+wvw
+vw
+wvw
+vew
+vwv
